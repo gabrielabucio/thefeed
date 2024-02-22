@@ -1,15 +1,16 @@
-/*
-
 #HomePage { 
-    margin top: 6% 
-    font-size: xx-large;
-    background-color: 
-    border-radius: 30px;
-    margin-left: 30%; 
-    margn-right: 30%;
-    box-shadow: 0 0 15px 1px 
-    padding bottom: 1px
-}
+    margin top: 
+    font-size: 15
+    color: white
+    border-radius: 
+    margin-left: 
+    margn-right: 
+    box-shadow: 
+    padding bottom: 
+} 
+
+
+
 
 
 #header1 {
@@ -24,7 +25,31 @@
     left: 
     color: purple 
     box-shadow: 
+
 }
+body{
+        background: url("../img/sky.jpg");
+        background-repeat:no-repeat;
+        background-size: cover; 
+        background-attachment: fixed;
+        text-align:center;
+
+    }
+
+p {
+    border: 1px solid black;
+    background-color: white;
+}
+
+#star {
+    text-align:center;
+}
+
+h1{
+    text-align: center;
+    color:antiquewhite;
+}
+
 
 nav { 
     z-index: 1; 
@@ -34,22 +59,4 @@ nav {
     top: 
     padding: 
     border-radius: 
-}
-*/
-
-#nailmp4 {
-    width:200px;
-    height:400px;
-}
-
-#Mexicomp4 {
-    width:500px;
-    height: 400px; 
-
-}
-
-#travelmov {
-    width:500px;
-    height: 400px; 
-
 }
